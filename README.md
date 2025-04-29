@@ -1,6 +1,6 @@
 Download and add SAM model in the same folder and update the path accordingly 
 
-##LATEST VERSION
+#LATEST VERSION
 
 ![Screenshot 2025-03-28 161545](https://github.com/user-attachments/assets/2a3ab69a-2a10-44c3-ac86-12fe24e31df1)
 ![Screenshot 2025-04-21 172943](https://github.com/user-attachments/assets/cd1a4c6a-f3b9-447e-90be-bfab44fe749c)
